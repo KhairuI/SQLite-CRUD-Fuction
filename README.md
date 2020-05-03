@@ -8,5 +8,4 @@
 06. Search Data
 
 # App OverView
-initial page
-![Screenshot_20200503-062019_SQlite01](https://user-images.githubusercontent.com/48696824/80895700-7e375900-8d09-11ea-8dd0-91885a497fc0.jpg)
+![SQLite](https://user-images.githubusercontent.com/48696824/80896691-ea6a8a80-8d12-11ea-8d86-12be490899e4.jpg)
